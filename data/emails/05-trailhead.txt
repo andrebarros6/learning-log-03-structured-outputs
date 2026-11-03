@@ -1,0 +1,19 @@
+From: Trailhead Outfitters <orders@trailhead.example>
+To: sam.reyes@mail.example
+Date: 11/02/2026 7:31 PM EST
+Subject: Order #TH-88214 receipt
+
+Thanks for shopping with Trailhead!
+
+Order #TH-88214 — placed 11/02/2026
+
+Merino socks (3-pack) x2 ................ $38.00
+Headlamp 400lm .......................... $29.99
+Water filter bottle ..................... $34.50
+
+                         Subtotal:       $102.49
+                         Shipping:         FREE
+                         Sales tax (8.25%): $8.46
+                         Order total:    $110.95
+
+See you on the trail.

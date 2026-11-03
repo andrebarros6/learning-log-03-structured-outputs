@@ -1,0 +1,23 @@
+De: Mercearia do Bairro <recibos@merceariadobairro.example>
+Para: ana.costa@mail.example
+Data: sáb., 10/10/2026, 11:42
+Assunto: O seu recibo – encomenda nº 7731
+
+Olá Ana,
+
+Obrigado pela sua compra! Segue o resumo.
+
+Encomenda nº 7731 · 10 de outubro de 2026
+
+Azeite virgem extra 750ml      2 un.    7,49 €    14,98 €
+Pão de centeio                 1 un.    3,20 €     3,20 €
+Queijo da Serra (meio)         1 un.   18,90 €    18,90 €
+
+Subtotal                                          37,08 €
+Portes de envio                                    4,50 €
+Total                                             41,58 €
+
+IVA incluído à taxa legal em vigor (6%): 2,10 €
+
+Até breve,
+Mercearia do Bairro

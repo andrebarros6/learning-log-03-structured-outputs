@@ -1,0 +1,21 @@
+From: Marlowe & Finch Books <orders@marlowefinch.example>
+To: sam.reyes@mail.example
+Date: Mon, 5 Oct 2026 09:14 +0100
+Subject: Your order MF-20481 is confirmed
+
+Hi Sam,
+
+Thanks for your order! Here's what's on its way.
+
+Order number: MF-20481
+Order date: 5 October 2026
+
+  The Overstory (paperback)        1 x £10.99    £10.99
+  Field Notes, 3-pack              2 x £9.50     £19.00
+
+  Subtotal                                       £29.99
+  Delivery (Royal Mail Tracked 48)                £3.95
+  Total paid                                     £33.94
+
+Happy reading,
+The Marlowe & Finch team

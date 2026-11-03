@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+
+# Your runs: chat replies and API responses
+chat/*.txt
+out/
+
+# Your own documents — never commit real receipts to a public repo
+mine/

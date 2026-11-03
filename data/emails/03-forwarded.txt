@@ -1,0 +1,33 @@
+From: Sam Reyes <sam.reyes@mail.example>
+To: accounts@studio.example
+Date: Thu, 15 Oct 2026 18:02 +0100
+Subject: Fwd: Update to your order KT-55902
+
+Can you expense this one? It's the stuff for the workshop. Thanks! — Sam
+
+---------- Forwarded message ---------
+From: Kettle & Thread <hello@kettleandthread.example>
+Date: Wed, 14 Oct 2026 16:30
+Subject: Update to your order KT-55902
+
+Hi Sam,
+
+Sorry — the linen apron is out of stock, so we've taken it off your
+order and refunded €24.00 to your card. Everything else ships tomorrow.
+
+Your updated order:
+  Stoneware mug, speckled — 4 × €12.00 = €48.00
+  Tea towel set — 1 × €15.00 = €15.00
+  Shipping — free over €50
+  New total: €63.00
+
+Kettle & Thread
+
+> On Mon, 12 Oct 2026 at 10:05, Kettle & Thread wrote:
+> Thanks for your order KT-55902!
+>
+> Stoneware mug, speckled   4 × €12.00    €48.00
+> Linen apron               1 × €24.00    €24.00
+> Tea towel set             1 × €15.00    €15.00
+> Shipping                                 €0.00
+> Total                                   €87.00

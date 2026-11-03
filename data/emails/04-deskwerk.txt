@@ -1,0 +1,16 @@
+From: Deskwerk <noreply@deskwerk.example>
+To: sam.reyes@mail.example
+Date: Mon, 19 Oct 2026 21:47 +0200
+Subject: Order DW-1093-B received
+
+ORDER DW-1093-B   placed 19 Oct 2026
+
+ITEM                                        QTY    PRICE
+Monitor arm 27" (heavy-duty)                1      €89.00
+Cable tray "Slim", black                    2      €14.50
+Desk mat 90x40cm \ felt / grey              1      €22.00
+---------------------------------------------------------
+Items €140.00   Shipping €6.90   Discount (WELCOME10) −€14.00
+TOTAL €132.90
+
+Prices are per item. Questions? Reply to this email.
