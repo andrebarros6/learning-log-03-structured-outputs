@@ -42,7 +42,21 @@ If you want prose, don't force JSON. Constraining the shape of a generative task
 git clone https://github.com/andrebarros6/learning-log-03-structured-outputs
 cd learning-log-03-structured-outputs
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+```
+
+Activate it. The command depends on your shell:
+
+```bash
+source .venv/bin/activate        # macOS / Linux
+```
+
+```powershell
+.venv\Scripts\Activate.ps1       # Windows PowerShell, including the VS Code terminal
+```
+
+If PowerShell says running scripts is disabled, run `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned` once, then try again. Then:
+
+```bash
 pip install -r requirements.txt
 ```
 
