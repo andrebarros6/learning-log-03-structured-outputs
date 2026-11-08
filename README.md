@@ -74,7 +74,9 @@ Open [claude.ai](https://claude.ai). For each email in [`data/emails/`](data/ema
 
 1. **Open a fresh chat.**
 2. Paste the prompt from [`prompts/prompt-only.md`](prompts/prompt-only.md), then the email underneath it, as one message.
-3. Copy the reply with the copy button, and paste it into `chat/01.txt`, `chat/02.txt` and so on. Don't tidy it. What the copy button gives you is what a program would get.
+3. Copy the reply with the copy button **under the whole message**, not the small icon on the code block, and paste it into `chat/01.txt`, `chat/02.txt` and so on. Don't tidy it. The files are `.txt`, not `.json`, because whether the reply is JSON is what you're about to find out.
+
+If you used the code-block icon, everything will probably parse. That icon copies only what's inside the fence, so it did the cleanup for you. Notice that. In the chat, there's always someone in the loop to tidy up. Step 3 takes them out.
 
 Then, before the next step, **break it on purpose**. Pick one email and try at least one of these:
 
@@ -106,6 +108,8 @@ Read [`src/extract.py`](src/extract.py) while it runs. The two modes differ in e
 ### 5. Read the values
 
 "Adds up" checks that the extraction agrees with itself. It doesn't know what the email said. For each email, open one schema-mode output next to the email and check the values by hand: the date, the total, the tax, whether every item belongs there. There's a trap in each one: a total with VAT already in it, a correction that replaces an earlier order, a date written the American way, a product name with a quote mark in it, a refund with no order number.
+
+Then look past the traps, at the fields where the email leaves room for a choice. Is the `#` in `#TH-88214` part of the order number? The socks' unit price isn't printed; does it come back `null`, as the prompt asks, or worked out as 19.00? Compare the three runs of each email, and the same email across both modes. If a value changes when the email hasn't, that's a rule you need to state more sharply, or enforce in [`src/validate.py`](src/validate.py).
 
 ## Checking your work
 
