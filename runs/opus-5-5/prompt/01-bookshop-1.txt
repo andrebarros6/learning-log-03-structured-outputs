@@ -1,0 +1,27 @@
+```json
+{
+  "kind": "order",
+  "merchant": "Marlowe & Finch Books",
+  "order_id": "MF-20481",
+  "order_date": "2026-10-05",
+  "currency": "GBP",
+  "items": [
+    {
+      "description": "The Overstory (paperback)",
+      "quantity": 1,
+      "unit_price": 10.99,
+      "line_total": 10.99
+    },
+    {
+      "description": "Field Notes, 3-pack",
+      "quantity": 2,
+      "unit_price": 9.50,
+      "line_total": 19.00
+    }
+  ],
+  "discount": 0,
+  "shipping": 3.95,
+  "tax": 0,
+  "total": 33.94
+}
+```

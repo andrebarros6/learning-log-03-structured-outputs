@@ -1,0 +1,29 @@
+```json
+{
+  "kind": "order",
+  "merchant": "Kettle & Thread",
+  "order_id": "KT-55902",
+  "order_date": "2026-10-12",
+  "currency": "EUR",
+  "items": [
+    {
+      "description": "Stoneware mug, speckled",
+      "quantity": 4,
+      "unit_price": 12.00,
+      "line_total": 48.00
+    },
+    {
+      "description": "Tea towel set",
+      "quantity": 1,
+      "unit_price": 15.00,
+      "line_total": 15.00
+    }
+  ],
+  "discount": 0,
+  "shipping": 0,
+  "tax": 0,
+  "total": 63.00
+}
+```
+
+This is the order as it now stands. The out-of-stock linen apron isn't included, since its €24.00 was refunded. The card was charged €87.00 at first and then refunded €24.00, so the net amount to expense is €63.00. If your system needs the refund recorded as its own entry, it would be a separate `"kind": "refund"` record for €24.00 with the apron as its only item.

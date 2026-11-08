@@ -1,0 +1,27 @@
+```json
+{
+  "kind": "order",
+  "merchant": "Kettle & Thread",
+  "order_id": "KT-55902",
+  "order_date": "2026-10-12",
+  "currency": "EUR",
+  "items": [
+    {
+      "description": "Stoneware mug, speckled",
+      "quantity": 4,
+      "unit_price": 12.00,
+      "line_total": 48.00
+    },
+    {
+      "description": "Tea towel set",
+      "quantity": 1,
+      "unit_price": 15.00,
+      "line_total": 15.00
+    }
+  ],
+  "discount": 0,
+  "shipping": 0,
+  "tax": 0,
+  "total": 63.00
+}
+```

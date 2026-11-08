@@ -1,0 +1,31 @@
+{
+  "kind": "order",
+  "merchant": "Mercearia do Bairro",
+  "order_id": "7731",
+  "order_date": "2026-10-10",
+  "currency": "EUR",
+  "items": [
+    {
+      "description": "Azeite virgem extra 750ml",
+      "quantity": 2,
+      "unit_price": 7.49,
+      "line_total": 14.98
+    },
+    {
+      "description": "Pão de centeio",
+      "quantity": 1,
+      "unit_price": 3.20,
+      "line_total": 3.20
+    },
+    {
+      "description": "Queijo da Serra (meio)",
+      "quantity": 1,
+      "unit_price": 18.90,
+      "line_total": 18.90
+    }
+  ],
+  "discount": 0,
+  "shipping": 4.50,
+  "tax": 0,
+  "total": 41.58
+}

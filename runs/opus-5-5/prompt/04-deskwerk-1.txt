@@ -1,0 +1,33 @@
+```json
+{
+  "kind": "order",
+  "merchant": "Deskwerk",
+  "order_id": "DW-1093-B",
+  "order_date": "2026-10-19",
+  "currency": "EUR",
+  "items": [
+    {
+      "description": "Monitor arm 27\" (heavy-duty)",
+      "quantity": 1,
+      "unit_price": 89.00,
+      "line_total": 89.00
+    },
+    {
+      "description": "Cable tray \"Slim\", black",
+      "quantity": 2,
+      "unit_price": 14.50,
+      "line_total": 29.00
+    },
+    {
+      "description": "Desk mat 90x40cm \\ felt / grey",
+      "quantity": 1,
+      "unit_price": 22.00,
+      "line_total": 22.00
+    }
+  ],
+  "discount": 14.00,
+  "shipping": 6.90,
+  "tax": 0,
+  "total": 132.90
+}
+```
